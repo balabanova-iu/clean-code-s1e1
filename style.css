@@ -163,7 +163,8 @@
   transform: rotateZ(0);
 }
 
-.completed-label, .list#completed-tasks .label {
+.completed-label, 
+.list#completed-tasks .label {
   text-decoration: line-through;
   color: #888;
 }
